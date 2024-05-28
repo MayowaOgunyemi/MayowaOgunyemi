@@ -46,13 +46,13 @@ I'm a passionate software developer with a proven track record of delivering imp
   <!-- Add more icons as needed -->
 </p>
 
-## 🔹 Projects
+## 🔹 PROJECTS
 - **[Awesome Project 1](https://github.com/johnDoe/awesome-project-1)**: A brief description of what this project does.
 - **[Awesome Project 2](https://github.com/johnDoe/awesome-project-2)**: Another project description.
 
-## 📈 GitHub Stats
+## 📈 GITHUB STATS
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=MayowaOgunyemi&show_icons=true&theme=radical)
 
-## 📫 Contact
+## 📫 CONTACT
 - **Email**: [engr.mayowa.ogunyemi@gmail.com](mailto:engr.mayowa.ogunyemi@gmail.com)
 - **LinkedIn**: [Mayowa O. Ogunyemi](https://www.linkedin.com/in/mayowaogunyemi)
