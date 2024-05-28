@@ -55,7 +55,7 @@ I'm a passionate software developer with a proven track record of delivering imp
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" alt="Postman" width="30" height="30"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/junit/junit-original.svg" alt="Junit" width="30" height="30"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-original.svg" alt="Jest" width="30" height="30"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg" alt="Jest" width="30" height="30"/>
   <!-- Add more icons as needed -->
 </p>
 
@@ -71,7 +71,7 @@ I'm a passionate software developer with a proven track record of delivering imp
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="30" height="30"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="30" height="30"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/openapi/openapi-original.svg" alt="Open API" width="30" height="30"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swagger/swagger-original.svg" alt="Swagger" width="30" height="30"/>
   <!-- Add more icons as needed -->
 </p>
 
@@ -82,6 +82,6 @@ I'm a passionate software developer with a proven track record of delivering imp
 ## 📈 GITHUB STATS
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=MayowaOgunyemi&show_icons=true&theme=radical)
 
-## 📫 CONTACT
+## ☎ CONTACT
 - **Email**: [engr.mayowa.ogunyemi@gmail.com](mailto:engr.mayowa.ogunyemi@gmail.com)
 - **LinkedIn**: [Mayowa O. Ogunyemi](https://www.linkedin.com/in/mayowaogunyemi)
