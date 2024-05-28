@@ -8,7 +8,7 @@ I'm a passionate software developer with a proven track record of delivering imp
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="Spring Boot" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg" alt="Laravel" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" alt="Laravel" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
@@ -21,7 +21,7 @@ I'm a passionate software developer with a proven track record of delivering imp
 - **[Awesome Project 2](https://github.com/johnDoe/awesome-project-2)**: Another project description.
 
 ## 📈 GitHub Stats
-![John Doe's GitHub stats](https://github-readme-stats.vercel.app/api?username=johnDoe&show_icons=true&theme=radical)
+![Mayowa Ogunyemi's GitHub stats](https://github-readme-stats.vercel.app/api?username=MayowaOgunyemi&show_icons=true&theme=radical)
 
 ## 📫 Contact
 - **Email**: [engr.mayowa.ogunyemi@gmail.com](mailto:engr.mayowa.ogunyemi@gmail.com)
