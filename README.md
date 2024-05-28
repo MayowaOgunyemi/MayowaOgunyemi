@@ -6,11 +6,13 @@ I'm a passionate software developer with a proven track record of delivering imp
 
 ### Planning & Requirements Gathering
 
+#### Requirement Engineering: 
+- Miro, MS Packages (Word, Excel, PowerPoint, SharePoint), Google Doc
+
 #### System Design and Architecture
+- Bizagi Modeller, Microsoft Visio, Draw.io
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL Workbench" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visio/visio-original.svg" alt="Microsoft Visio" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/drawio/drawio-original.svg" alt="Draw.io" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="Figma" width="40" height="40"/>
 </p>
 
