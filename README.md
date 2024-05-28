@@ -6,20 +6,9 @@ I'm a passionate software developer with a proven track record of delivering imp
 
 ### Planning & Requirements Gathering
 
-#### Requirement Engineering
-<p align="left">
-  <img src="https://miro.com/static/images/favicon/favicon-32x32.png" alt="Miro" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/word/word-original.svg" alt="Microsoft Word" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/excel/excel-original.svg" alt="Microsoft Excel" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/powerpoint/powerpoint-original.svg" alt="Microsoft PowerPoint" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sharepoint/sharepoint-original.svg" alt="SharePoint" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Google_Docs_icon_%282014-2020%29.svg/40px-Google_Docs_icon_%282014-2020%29.svg.png" alt="Google Docs" width="40" height="40"/>
-</p>
-
 #### System Design and Architecture
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL Workbench" width="40" height="40"/>
-  <img src="https://bizagi.com/favicon.ico" alt="Bizagi Modeler" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visio/visio-original.svg" alt="Microsoft Visio" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/drawio/drawio-original.svg" alt="Draw.io" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="Figma" width="40" height="40"/>
