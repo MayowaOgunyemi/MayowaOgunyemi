@@ -1,6 +1,6 @@
 # Hi, My name is Mayowa Oluwatobi Ogunyemi
 
-I'm a passionate software developer with a proven track record of delivering impactful software solutions, I leverage my technical expertise to propel organizations forward, empower clients, and build secure, user-friendly applications. I am committed to adhering to industry standards and best practices. I excel in delivering solutions that meet and exceed expectations, driving tangible results and fostering long-term success for stakeholders. Here's a bit about me:
+I'm a passionate software developer with a proven track record of delivering impactful software solutions, I leverage my technical expertise to propel organizations forward, empower clients, and build secure, user-friendly applications. I am committed to adhering to industry standards and best practices. I excel in delivering solutions that meet and exceed expectations, driving tangible results and fostering long-term success for stakeholders.
 
 ## 🔹 TECHNICAL PROFICIENCY
 
@@ -12,8 +12,9 @@ I'm a passionate software developer with a proven track record of delivering imp
 #### System Design and Architecture
 - Bizagi Modeller, Microsoft Visio, Draw.io
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL Workbench" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="Figma" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL Workbench" width="30" height="30"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="Figma" width="30" height="30"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unifiedmodelinglanguage/unifiedmodelinglanguage-original.svg" alt="Unified modeling language" width="30" height="30"/>
 </p>
 
 ### DEVELOPMENT TOOLS
@@ -25,12 +26,15 @@ I'm a passionate software developer with a proven track record of delivering imp
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" alt="Laravel" width="30" height="30"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="30" height="30"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="30" height="30"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="30" height="30"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/solidity/solidity-original.svg" alt="Solidity" width="30" height="30"/>
   <!-- Add more icons as needed -->
 </p>
 
 #### Web Development:
 
 <p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="Vue JS" width="30" height="30"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML and HTML 5" width="30" height="30"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="30" height="30"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="30" height="30"/>
@@ -43,6 +47,31 @@ I'm a passionate software developer with a proven track record of delivering imp
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="Mysql" width="30" height="30"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="Postgresql" width="30" height="30"/>
+  <!-- Add more icons as needed -->
+</p>
+
+#### Testing Tools:
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" alt="Postman" width="30" height="30"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/junit/junit-original.svg" alt="Junit" width="30" height="30"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-original.svg" alt="Jest" width="30" height="30"/>
+  <!-- Add more icons as needed -->
+</p>
+
+#### Collaboration Tools:
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="Github" width="30" height="30"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/trello/trello-original.svg" alt="Trello" width="30" height="30"/>
+  <!-- Add more icons as needed -->
+</p>
+
+#### Others:
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="30" height="30"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="30" height="30"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/openapi/openapi-original.svg" alt="Open API" width="30" height="30"/>
   <!-- Add more icons as needed -->
 </p>
 
