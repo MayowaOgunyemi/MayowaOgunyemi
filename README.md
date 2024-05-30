@@ -29,6 +29,7 @@ I'm a passionate software developer with a proven track record of delivering imp
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="30" height="30"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/solidity/solidity-original.svg" alt="Solidity" width="30" height="30"/>
   <!-- Add more icons as needed -->
+  <img src="https://camo.githubusercontent.com/dc85e28b97f0d1fd4b76ce7f5229a76c4894ecb7e0348d36866a5fc335924387/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6a6176617363726970742d2532333332333333302e7376673f7374796c653d706c6173746963266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d253233463744463145" alt="JavaScript" data-canonical-src="https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&amp;logo=javascript&amp;logoColor=%23F7DF1E" style="max-width: 100%;">
 </p>
 
 #### Web Development:
