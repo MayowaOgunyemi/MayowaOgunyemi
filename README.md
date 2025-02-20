@@ -84,6 +84,8 @@ I'm a passionate software developer with a proven track record of delivering imp
 
 ## 📈 GITHUB STATS
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=MayowaOgunyemi&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MayowaOgunyemi&layout=compact)
+
 
 ## ☎ CONTACT
 - **Email**: [engr.mayowa.ogunyemi@gmail.com](mailto:engr.mayowa.ogunyemi@gmail.com)
