@@ -83,7 +83,7 @@ I'm a passionate software developer with a proven track record of delivering imp
 - **[Addressing Railway Ticketing System Abuses in Lagos, Nigeria: A Call for Ethical Innovation](https://medium.com/@engrmayoronline/addressing-railway-ticketing-system-abuses-in-lagos-nigeria-a-call-for-ethical-innovation-398b8a4f601c)**
 
 ## 📈 GITHUB STATS
-
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=MayowaOgunyemi&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MayowaOgunyemi&layout=compact)
 
 
