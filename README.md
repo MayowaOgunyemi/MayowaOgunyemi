@@ -5,7 +5,7 @@ I'm a passionate software developer with a proven track record of delivering imp
 
 ## 🔹 TECHNICAL PROFICIENCY
 
-| PLANNING & REQUIREMENTS GATHERING                                | 
+| PLANNING & REQUIREMENTS GATHERING | 
 | ---------------------------------------------------------------- | 
 | **Requirement Engineering** | **System Design and Architecture** | 
 | --------------------------- | ---------------------------------- |
