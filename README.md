@@ -13,23 +13,9 @@ I'm a passionate software developer with a proven track record of delivering imp
 |                                                   | Design Patterns, SOLID Principles |
 |                                                   | Bizagi Modeller, Microsoft Visio, Draw.io, ISO27001 |
 
-| PLANNING & REQUIREMENTS GATHERING                                | DEVELOPMENT TOOLS                                                                                                                    |
-| ---------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------ |
-| **Requirement Engineering** | **System Design and Architecture** | **Programming Languages** | **Web Development** | **Database Management** | **Testing Tools** | **Collaboration Tools** | **Others** |
-| --------------------------- | ---------------------------------- | ------------------------- | ------------------- | ----------------------- | ----------------- | ----------------------- | ---------- |
-
-### PLANNING & REQUIREMENTS GATHERING
-
-#### Requirement Engineering: 
-- Miro, MS Packages (Word, Excel, PowerPoint, SharePoint), Google Doc
-
-#### System Design and Architecture
-- Design Patterns, SOLID Principles, Bizagi Modeller, Microsoft Visio, Draw.io, ISO27001
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL Workbench" width="30" height="30"/> MySQL Workbench </br>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="Figma" width="30" height="30"/> Figma </br>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unifiedmodelinglanguage/unifiedmodelinglanguage-original.svg" alt="Unified modeling language" width="30" height="30"/> Unified Modelling Language (UML) </br>
-</p>
+### DEVELOPMENT TOOLS
+| Requirement Engineering | System Design and Architecture | Programming Languages | Web Development | Database Management | Testing Tools | Collaboration Tools | Others |
+| ----------------------- | ------------------------------ | --------------------- | --------------- | ------------------- | ------------- | ------------------- | ------ |
 
 ### DEVELOPMENT TOOLS
 
