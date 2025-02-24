@@ -10,6 +10,8 @@ I'm a passionate software developer with a proven track record of delivering imp
 | Miro                                              | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL Workbench" width="30" height="30"/> MySQL Workbench                               |
 | MS Packages (Word, Excel, PowerPoint, SharePoint) | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="Figma" width="30" height="30"/> Figma                              |
 | Google Doc                                        | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unifiedmodelinglanguage/unifiedmodelinglanguage-original.svg" alt="Unified modeling language" width="30" height="30"/> Unified Modelling Language (UML)                               |
+|                                                   | Design Patterns, SOLID Principles |
+|                                                   | Bizagi Modeller, Microsoft Visio, Draw.io, ISO27001 |
 
 | PLANNING & REQUIREMENTS GATHERING                                | DEVELOPMENT TOOLS                                                                                                                    |
 | ---------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------ |
