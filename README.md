@@ -14,8 +14,8 @@ I'm a passionate software developer with a proven track record of delivering imp
 |                                                   | Bizagi Modeller, Microsoft Visio, Draw.io, ISO27001 |
 
 ### DEVELOPMENT TOOLS
-| Requirement Engineering | System Design and Architecture | Programming Languages | Web Development | Database Management | Testing Tools | Collaboration Tools | Others |
-| ----------------------- | ------------------------------ | --------------------- | --------------- | ------------------- | ------------- | ------------------- | ------ |
+| Programming Languages | Web Development | Database Management | Testing Tools | Collaboration Tools | Others |
+| --------------------- | --------------- | ------------------- | ------------- | ------------------- | ------ |
 
 ### DEVELOPMENT TOOLS
 
