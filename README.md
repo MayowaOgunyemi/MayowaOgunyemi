@@ -9,8 +9,6 @@ I'm a passionate software developer with a proven track record of delivering imp
 | ---------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------ |
 | **Requirement Engineering** | **System Design and Architecture** | **Programming Languages** | **Web Development** | **Database Management** | **Testing Tools** | **Collaboration Tools** | **Others** |
 | --------------------------- | ---------------------------------- | ------------------------- | ------------------- | ----------------------- | ----------------- | ----------------------- | ---------- |
-| Feature B   | 🚧 In Progress | [Issue #123](https://github.com/your-username/your-repo/issues/123) |
-| Feature C   | ⏳ To Do  | `` `code example` `` |
 
 ### PLANNING & REQUIREMENTS GATHERING
 
