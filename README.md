@@ -16,6 +16,12 @@ I'm a passionate software developer with a proven track record of delivering imp
 ### DEVELOPMENT TOOLS
 | Programming Languages | Web Development | Database Management | Testing Tools | Collaboration Tools | Others |
 | --------------------- | --------------- | ------------------- | ------------- | ------------------- | ------ |
+| <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" alt="Spring Boot" width="30" height="30"/> SpringBoot | | | | | |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" alt="Laravel" width="30" height="30"/> Laravel | | | | | |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="30" height="30"/> PHP | | | | | |
+| <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="Java" width="30" height="30"/> Java | | | | | |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/solidity/solidity-original.svg" alt="Solidity" width="30" height="30"/> Solidity | | | | | |
+| <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="Java" width="30" height="30"/> Javascript | | | | | |
 
 ### DEVELOPMENT TOOLS
 
