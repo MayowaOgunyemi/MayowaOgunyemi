@@ -7,6 +7,9 @@ I'm a passionate software developer with a proven track record of delivering imp
 ### PLANNING & REQUIREMENTS GATHERING
 | Requirement Engineering | System Design and Architecture | 
 | ----------------------- | ------------------------------ |
+| Miro                    |                                |
+| MS Packages (Word, Excel, PowerPoint, SharePoint)                    |                                |
+| Google Doc                    |                                |
 
 | PLANNING & REQUIREMENTS GATHERING                                | DEVELOPMENT TOOLS                                                                                                                    |
 | ---------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------ |
