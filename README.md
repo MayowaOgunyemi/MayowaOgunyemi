@@ -16,39 +16,12 @@ I'm a passionate software developer with a proven track record of delivering imp
 ### DEVELOPMENT TOOLS
 | Programming Languages | Web Development | Database Management | Testing Tools | Collaboration Tools | Others |
 | --------------------- | --------------- | ------------------- | ------------- | ------------------- | ------ |
-| <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" alt="Spring Boot" width="30" height="30"/> SpringBoot | | | | | |
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" alt="Laravel" width="30" height="30"/> Laravel | | | | | |
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="30" height="30"/> PHP | | | | | |
-| <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="Java" width="30" height="30"/> Java | | | | | |
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/solidity/solidity-original.svg" alt="Solidity" width="30" height="30"/> Solidity | | | | | |
+| <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" alt="Spring Boot" width="30" height="30"/> SpringBoot | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="Vue JS" width="30" height="30"/> Vue Js | | | | |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" alt="Laravel" width="30" height="30"/> Laravel | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML and HTML 5" width="30" height="30"/> HTML5 | | | | |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="30" height="30"/> PHP | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="30" height="30"/> CSS3 | | | | |
+| <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="Java" width="30" height="30"/> Java | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="30" height="30"/> Bootstrap | | | | |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/solidity/solidity-original.svg" alt="Solidity" width="30" height="30"/> Solidity | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="TailwindCSS" width="30" height="30"/> TailwindCSS | | | | |
 | <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="Java" width="30" height="30"/> Javascript | | | | | |
-
-### DEVELOPMENT TOOLS
-
-#### Programming Languages:
-
-<p align="left">
-<!--   <!--<img src="https://camo.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="Spring Boot" width="30" height="30"/> --> 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" alt="Spring Boot" width="30" height="30"/> SpringBoot </br>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" alt="Laravel" width="30" height="30"/> Laravel </br>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="30" height="30"/> PHP </br>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="Java" width="30" height="30"/> Java </br>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/solidity/solidity-original.svg" alt="Solidity" width="30" height="30"/> Solidity </br>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="Java" width="30" height="30"/> Javascript </br>
-  
-  <!-- Add more icons as needed -->
-</p>
-
-#### Web Development:
-
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="Vue JS" width="30" height="30"/> Vue Js </br>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML and HTML 5" width="30" height="30"/> HTML5 </br>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="30" height="30"/> CSS3 </br>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="30" height="30"/> Bootstrap CSS </br>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="TailwindCSS" width="30" height="30"/> TailwindCSS </br>
-  <!-- Add more icons as needed -->
-</p>
 
 #### Database Management:
 
