@@ -1,4 +1,4 @@
-![New LinkedIn Banner](https://github.com/MayowaOgunyemi/MayowaOgunyemi/assets/94368441/287dfd1f-ba89-4235-a5e0-c45fee0976c9)
+![New LinkedIn Banner](https://github.com/MayowaOgunyemi/MayowaOgunyemi/blob/main/New%20LinkedIn%20Banner.png)
 # Hi, My name is Tobi Mayowa, Ogunyemi
 
 I'm a passionate software developer with a proven track record of delivering impactful software solutions. I leverage my technical expertise to propel organisations forward, empower clients, and build secure, user-friendly applications. I am committed to adhering to industry standards and best practices. I excel in delivering solutions that meet and exceed expectations, driving tangible results and fostering long-term success for stakeholders.
