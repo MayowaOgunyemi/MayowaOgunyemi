@@ -1,7 +1,9 @@
 ![New LinkedIn Banner](https://github.com/MayowaOgunyemi/MayowaOgunyemi/blob/main/New%20LinkedIn%20Banner.png)
-# Hi, My name is Tobi Mayowa, Ogunyemi
+# Hi, my name is Tobi
 
-I'm a passionate software developer with a proven track record of delivering impactful software solutions. I leverage my technical expertise to propel organisations forward, empower clients, and build secure, user-friendly applications. I am committed to adhering to industry standards and best practices. I excel in delivering solutions that meet and exceed expectations, driving tangible results and fostering long-term success for stakeholders.
+I have 8 years of experience designing and delivering secure, scalable software for organisations across the education, healthcare, fintech, and IT & IT consulting industries, from early-stage startups (10–50 employees) to mid-sized enterprises (£5M–£50M in annual revenue).
+
+I design and build user-focused, backend-driven systems, APIs, and cloud-native solutions that streamline operations, enhance compliance, and create measurable business outcomes.
 
 ## 🔹 TECHNICAL PROFICIENCY
 ### PLANNING & REQUIREMENTS GATHERING
