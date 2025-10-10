@@ -12,7 +12,7 @@ I design and build user-focused, backend-driven systems, APIs, and cloud-native 
 | Miro                                              | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL Workbench" width="30" height="30"/> MySQL Workbench                               |
 | MS Packages (Word, Excel, PowerPoint, SharePoint) | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="Figma" width="30" height="30"/> Figma                              |
 | Google Doc                                        | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unifiedmodelinglanguage/unifiedmodelinglanguage-original.svg" alt="Unified modeling language" width="30" height="30"/> Unified Modelling Language (UML)                               |
-|                                                   | Design Patterns, SOLID Principles |
+|                                                   | Design Patterns, SOLID Principles, Event-Driven, Microservices |
 |                                                   | Bizagi Modeller, Microsoft Visio, Draw.io, ISO27001 |
 
 ### DEVELOPMENT TOOLS
@@ -26,7 +26,8 @@ I design and build user-focused, backend-driven systems, APIs, and cloud-native 
 | <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="Java" width="30" height="30"/> Javascript | | | | | |
 
 ## 🔹 TECHNICAL ARTICLES
-- **[Addressing Railway Ticketing System Abuses in Lagos, Nigeria: A Call for Ethical Innovation](https://medium.com/@engrmayoronline/addressing-railway-ticketing-system-abuses-in-lagos-nigeria-a-call-for-ethical-innovation-398b8a4f601c)**
+- **[Secure SDLC Series: Secure Design](https://www.linkedin.com/posts/mayowaogunyemi_execution-is-everything-securesdlc-series-activity-7382308967856771073--wIA?utm_source=share&utm_medium=member_desktop&rcm=ACoAAB_MDOcBoKcozIYpZprR5Jwi8No-tedBdos)**
+- **[Secure SDLC Series: Secure Requirements Gathering](https://www.linkedin.com/posts/mayowaogunyemi_week-1-part-3-your-secure-requirements-activity-7379047460780007425-eRHJ?utm_source=share&utm_medium=member_desktop&rcm=ACoAAB_MDOcBoKcozIYpZprR5Jwi8No-tedBdos)**
 
 ## 📈 GITHUB STATS
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=MayowaOgunyemi&show_icons=true&theme=radical)
