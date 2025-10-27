@@ -5,6 +5,8 @@ I have 8 years of experience designing and delivering secure, scalable software 
 
 I design and build user-focused, backend-driven systems, APIs, and cloud-native solutions that streamline operations, enhance compliance, and create measurable business outcomes.
 
+[![Follow on LinkedIn](https://img.shields.io/badge/Follow%20on-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mayowaogunyemi/)
+
 ## 🔹 TECHNICAL PROFICIENCY
 ### PLANNING & REQUIREMENTS GATHERING
 | Requirement Engineering                           | System Design and Architecture | 
@@ -26,7 +28,9 @@ I design and build user-focused, backend-driven systems, APIs, and cloud-native 
 | <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="Java" width="30" height="30"/> Javascript | | | | | |
 
 ## 🔹 TECHNICAL ARTICLES
-- **[Secure SDLC Series: Secure Design](https://www.linkedin.com/posts/mayowaogunyemi_execution-is-everything-securesdlc-series-activity-7382308967856771073--wIA?utm_source=share&utm_medium=member_desktop&rcm=ACoAAB_MDOcBoKcozIYpZprR5Jwi8No-tedBdos)**
+- **[Secure SDLC Series: Secure Testing and Verification](https://www.linkedin.com/posts/mayowaogunyemi_pipeline-dast-pentesting-activity-7387431377652174849-DKv3?utm_source=share&utm_medium=member_desktop&rcm=ACoAAB_MDOcBoKcozIYpZprR5Jwi8No-tedBdos)**
+- **[Secure SDLC Series: Secure Implementation and Coding](https://www.linkedin.com/posts/mayowaogunyemi_secure-pentests-pipeline-activity-7384845627332980736-0ql0?utm_source=share&utm_medium=member_desktop&rcm=ACoAAB_MDOcBoKcozIYpZprR5Jwi8No-tedBdos)**
+- **[Secure SDLC Series: Secure Design and Architecture](https://www.linkedin.com/posts/mayowaogunyemi_execution-is-everything-securesdlc-series-activity-7382308967856771073--wIA?utm_source=share&utm_medium=member_desktop&rcm=ACoAAB_MDOcBoKcozIYpZprR5Jwi8No-tedBdos)**
 - **[Secure SDLC Series: Secure Requirements Gathering](https://www.linkedin.com/posts/mayowaogunyemi_week-1-part-3-your-secure-requirements-activity-7379047460780007425-eRHJ?utm_source=share&utm_medium=member_desktop&rcm=ACoAAB_MDOcBoKcozIYpZprR5Jwi8No-tedBdos)**
 
 ## 📈 GITHUB STATS
