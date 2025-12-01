@@ -28,6 +28,7 @@ I design and build user-focused, backend-driven systems, APIs, and cloud-native 
 | <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="Java" width="30" height="30"/> Javascript | | | | | |
 
 ## 🔹 TECHNICAL ARTICLES
+- **[Secure SDLC Series: Secure Maintenance and Monitoring](https://www.linkedin.com/posts/mayowaogunyemi_automating-vigilance-securesdlc-series-activity-7392454657413099521-5yxA?utm_source=share&utm_medium=member_desktop&rcm=ACoAAB_MDOcBoKcozIYpZprR5Jwi8No-tedBdos)**
 - **[Secure SDLC Series: Secure Deployment](https://www.linkedin.com/posts/mayowaogunyemi_secure-deployment-part-3-securesdlc-activity-7389926606313558016-TaQ0?utm_source=share&utm_medium=member_desktop&rcm=ACoAAB_MDOcBoKcozIYpZprR5Jwi8No-tedBdos)**
 - **[Secure SDLC Series: Secure Testing and Verification](https://www.linkedin.com/posts/mayowaogunyemi_pipeline-dast-pentesting-activity-7387431377652174849-DKv3?utm_source=share&utm_medium=member_desktop&rcm=ACoAAB_MDOcBoKcozIYpZprR5Jwi8No-tedBdos)**
 - **[Secure SDLC Series: Secure Implementation and Coding](https://www.linkedin.com/posts/mayowaogunyemi_secure-pentests-pipeline-activity-7384845627332980736-0ql0?utm_source=share&utm_medium=member_desktop&rcm=ACoAAB_MDOcBoKcozIYpZprR5Jwi8No-tedBdos)**
